@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/.github/">
+    <File Path="copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="CLAUDE.md" />
+  </Folder>
+  <Project Path="TurfTrack.csproj" />
+</Solution>
