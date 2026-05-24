@@ -1,0 +1,28 @@
+# ==========================================
+# React / Frontend Subfolder
+# ==========================================
+# Ignores node_modules inside your React subfolder
+**/node_modules/
+**/dist/
+**/build/
+.env*.local
+
+# ==========================================
+# .NET API Subfolder
+# ==========================================
+# Ignores compiled build outputs (bin and obj folders)
+**/bin/
+**/obj/
+
+# Ignores user-specific IDE settings and local secrets
+**/.vs/
+**/appsettings.Development.json
+**/appsettings.Local.json
+*.user
+*.suo
+
+# ==========================================
+# General / OS
+# ==========================================
+.DS_Store
+Thumbs.db
